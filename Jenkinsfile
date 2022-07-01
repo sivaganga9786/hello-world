@@ -21,7 +21,7 @@ pipeline{
                     ],
                      credentialsId: 'nexus', 
                      groupId: 'in.javahome', 
-                     nexusUrl: '10.1.0.237:8081', 
+                     nexusUrl: '52.206.207.12:8081', 
                      nexusVersion: 'nexus3',
                      protocol: 'http',
                      repository: 'maven-releases', 
